@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   # line in _config.yml. It will appear in your document head meta (for
   # Google search results) and in your feed.xml site description.
   Personal website for Brian J. Bohman
-twitter_username: @bjbohman
-github_username: @bohm0072
+twitter_username: bjbohman
+github_username: bohm0072
 minimal_mistakes_skin: default
 search: true
 
