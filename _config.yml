@@ -63,7 +63,7 @@ plugins:
 
 author:
   name   : "Brian J Bohman, PhD"
-  avatar : "/assets/images/headshot.jpg"
+  avatar : "/assets/images/Headshot.jpg"
   bio    : "Delivering Data-Driven Solutions for Agronomists, Researchers, and the Food + Ag Value Chain."
   links:
     - label: "Google Scholar"
