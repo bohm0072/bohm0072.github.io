@@ -25,6 +25,9 @@ github_username: bohm0072
 minimal_mistakes_skin: default
 search: true
 
+# GitHub Site settings
+repository: bohm0072/bohm0072.github.io
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
