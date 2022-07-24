@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal website for Brian J. Bohman
 twitter_username: bjbohman
 github_username: bohm0072
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: default #contrast
 search: true
 
 # GitHub Site settings
@@ -67,27 +67,30 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/bjbohman/"
+    - label: "Google Scholar"
+      icon: "ai ai-fw ai-google-scholar-square"
+      url: "https://scholar.google.com/citations?hl=en&user=e8xG8uAAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bohm0072"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?hl=en&user=e8xG8uAAAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bjbohman"
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/bjbohman/"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
-      url: "https://https://scholar.google.com/citations?hl=en&user=e8xG8uAAAAAJ"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bjbohman"
+      icon: "ai ai-fw ai-google-scholar-square"
+      url: "https://scholar.google.com/citations?hl=en&user=e8xG8uAAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bohm0072"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bjbohman"
 
 defaults:
   # _posts
