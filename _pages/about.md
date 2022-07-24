@@ -1,8 +1,10 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a data scientist focused on developing precision agriculture technologies and products for data-driven agronomic decision making, using geospatial data including remote sensing imagery and IoT sensors.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My academic research is focused on improving in-season nitrogen and irrigation management in potato production and investigating approaches to improve nitrogen use efficiency.
+
+I am broadly interested in protecting water resources, addressing climate change, and improving grower profitability through education, engagement, and entrepreneurship. I find fulfillment in learning new things, communicating complex ideas, supporting others through inclusion and personal development, and dedicating myself to projects I am passionate about.
