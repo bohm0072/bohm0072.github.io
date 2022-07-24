@@ -13,17 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Brian J Bohman, PhD
-email: brianbohman@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal website for Brian J. Bohman
-twitter_username: bjbohman
-github_username: bohm0072
+title: "Brian J Bohman, PhD"
+email: "brianbohman@gmail.com"
+description: "Personal website for Brian J. Bohman"
+twitter_username: "bjbohman"
+github_username: "bohm0072"
 minimal_mistakes_skin: default #contrast
 search: true
-
-# GitHub Site settings
-repository: bohm0072/bohm0072.github.io
+url: "https://brianjbohman.com"
+repository: "bohm0072/bohm0072.github.io"
 
 # Build settings
 markdown: kramdown
@@ -76,6 +74,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bjbohman"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:brianbohman@gmail.com"
 
 footer:
   links:
@@ -91,6 +92,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bjbohman"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:brianbohman@gmail.com"
 
 defaults:
   # _posts
