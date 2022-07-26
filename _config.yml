@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Brian J Bohman, PhD"
 email: "brianbohman@gmail.com"
-description: "Personal website for Brian J. Bohman"
+description: "Personal website for Brian J Bohman, PhD"
 twitter_username: "bjbohman"
 github_username: "bohm0072"
 minimal_mistakes_skin: default #contrast
