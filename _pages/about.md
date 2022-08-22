@@ -3,8 +3,10 @@ permalink: /
 title: "About"
 ---
 
-I am a data scientist focused on developing precision agriculture technologies and products for data-driven agronomic decision making, using geospatial data including remote sensing imagery and IoT sensors.
+I am an agronomic data scientist and go-to-market strategist with proven success in commercializing deep technology products for digital agriculture.
 
-My academic research is focused on improving in-season nitrogen and irrigation management in potato production and investigating approaches to improve nitrogen use efficiency.
+I have experience in designing and launching go-to-market and product strategies, developing digital agriculture products leveraging geospatial, imagery, and IoT data, managing complex research and development projects, and inventing precision agriculture technologies.
 
-I am broadly interested in protecting water resources, addressing climate change, and improving grower profitability through education, engagement, and entrepreneurship. I find fulfillment in learning new things, communicating complex ideas, supporting others through inclusion and personal development, and dedicating myself to projects I am passionate about.
+My academic research is focused on investigating nitrogen and irrigation management strategies to improve agronomic efficiency and reduce environmental impacts, particularly for potato production, to protect water resources, mitigate climate change, and improve farmer profitability.
+
+I find fulfillment in learning new things, communicating complex ideas, supporting others through inclusion and personal development, and dedicating myself to projects I am passionate about.
