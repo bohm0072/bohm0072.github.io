@@ -35,6 +35,9 @@ timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_ti
 include:
   - _pages
 
+# Analytics
+google_analytics: "G-66W971VSE3"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
