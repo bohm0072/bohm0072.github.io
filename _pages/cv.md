@@ -16,15 +16,10 @@ title: "CV"
 
 | | |
 |:-|:-|
+|4|**Bohman, B.J.**, M.J. Culshaw-Maurer, F. Ben Abdallah, C. Giletto, G. Bélanger, F.G. Fernández, Y. Miao, D.J. Mulla, and C.J. Rosen. 2023. Quantifying critical N dilution curves across G × E × M effects for potato using a partially-pooled Bayesian hierarchical method. Eur. J. Agron. 144:126744. [doi:10.1016/j.eja.2023.126744](http://doi.org/10.1016/j.eja.2023.126744)|
 |3|**Bohman, B.J.**, C.J. Rosen, and D.J. Mulla. 2021. Relating Nitrogen Use Efficiency to Nitrogen Nutrition Index for Evaluation of Agronomic and Environmental Outcomes in Potato. Field Crops Res. 262:108041. [doi:10.1016/j.fcr.2020.108041](http://doi.org/10.1016/j.fcr.2020.108041)|
 |2|**Bohman, B.J.**, C.J. Rosen, and D.J. Mulla. 2020. Impact of Variable Rate Nitrogen and Reduced Irrigation Management on Nitrate Leaching for Potato. J. Environ. Qual. 49:281-291. [doi:10.2134/jeq2019.05.0209](http://doi.org/10.2134/jeq2019.05.0209)|
 |1|**Bohman, B.J.**, C.J. Rosen, and D.J. Mulla. 2019. Evaluation of Variable Rate Nitrogen and Reduced Irrigation Management for Potato Production. Agron. J. 111:2005-2017. [doi:10.2134/agronj2018.09.0566](http://doi.org/10.2134/agronj2018.09.0566)|
-
-### Manuscripts In Review  
-
-| | |
-|:-|:-|
-|1|**Bohman, B.J.**, M.J. Culshaw-Maurer, F. Ben Abdallah, C. Giletto, G. Bélanger, F.G. Fernández, Y. Miao, D.J. Mulla, and C.J. Rosen. 2022. Quantifying critical N dilution curves across G × E × M effects for potato using a partially-pooled Bayesian hierarchical method. Eur. J. Agron. *In revision.*|
 
 ## Non-Peer Reviewed Publications  
 
@@ -150,7 +145,8 @@ title: "CV"
 
 | | | |
 |:-|:-|:-|
-|2021|Present|**Solutions Engineer**. Sentera, Inc. – St. Paul, MN|
+|2023|Present|**Director, Product Strategy**. Sentera, Inc. – St. Paul, MN|
+|2021|2022|**Solutions Engineer**. Sentera, Inc. – St. Paul, MN|
 |2018|2021|**Founder/CEO**. Insight Sensing Corporation – St. Paul, MN|
 |2016|2020|**Research and Policy Fellow**. Freshwater Society – St. Paul, MN|
 
